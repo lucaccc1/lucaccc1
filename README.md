@@ -4,4 +4,4 @@ I'm a Computer Engineering student at Sapienza University, passionate about soft
 
 ### Resume
 You can view and download my updated resume here:
-[**Download Luca's CV (PDF)**](https://github.com/lucaccc1/resume/raw/main/main.pdf)
+[**Download Luca's resume (PDF)**](https://github.com/lucaccc1/resume/raw/main/main.pdf)
