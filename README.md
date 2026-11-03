@@ -5,6 +5,11 @@ I'm a Computer Science Engineering graduate, currently pursuing a Master’s deg
 Artificial Intelligence. Passionate about bridging theoretical AI concepts with practical software development, with a primary
 focus on Machine Learning.
 
+
+### Resume
+You can view and download my updated resume here:
+[**Download Luca's resume**](https://github.com/lucaccc1/resume/raw/main/Luca_Coccia_Resume.pdf)
+
 📍 Based in **Roma** · 👥 **2** followers · **0** following
 
 ## Languages I'm practicing
@@ -39,11 +44,7 @@ A selected project from this GitHub profile.<br/>
 - **Current streak:** 1 days
 - **Longest streak:** 10 days
 - **Active days:** 43 days
-- 
+
 <p align="center">
   <img src="https://www.gitskins.com/api/section/heatmap?username=lucaccc1&theme=zen" alt="lucaccc1 contribution activity" />
 </p>
-
-### Resume
-You can view and download my updated resume here:
-[**Download Luca's resume**](https://github.com/lucaccc1/resume/raw/main/Luca_Coccia_Resume.pdf)
