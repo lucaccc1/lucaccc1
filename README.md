@@ -44,7 +44,3 @@ A selected project from this GitHub profile.<br/>
 - **Current streak:** 1 days
 - **Longest streak:** 10 days
 - **Active days:** 43 days
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=lucaccc1&theme=zen" alt="lucaccc1 contribution activity" />
-</p>
