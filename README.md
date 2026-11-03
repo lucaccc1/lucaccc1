@@ -4,4 +4,4 @@ I'm a Computer Science Engineering and Artificial Intelligence student at Sapien
 
 ### Resume
 You can view and download my updated resume here:
-[**Download Luca's resume**](https://github.com/lucaccc1/resume/raw/main/main.pdf)
+[**Download Luca's resume**](https://github.com/lucaccc1/resume/raw/main/Luca_Coccia_Resume.pdf)
