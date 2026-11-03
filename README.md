@@ -1,6 +1,8 @@
 ## Hi, I'm Luca! 👋
 
-I'm a Computer Science Engineering and Artificial Intelligence student at Sapienza University, passionate about software development and AI.
+I'm a Computer Science Engineering graduate, currently pursuing a Master’s degree in Engineering in Computer Science and
+Artificial Intelligence. Passionate about bridging theoretical AI concepts with practical software development, with a primary
+focus on Machine Learning.
 
 ### Resume
 You can view and download my updated resume here:
