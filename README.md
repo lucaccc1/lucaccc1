@@ -15,3 +15,6 @@ Headless tool designed to automatically assign descriptive names to functions in
 
 [View repository](https://github.com/lucaccc1/valutazione-llm-per-analisi-statica-binari)
 </details>
+
+### Currently Working On
+- **M-L-GP**: A Machine Learning project focused on predicting MotoGP race outcomes using historical performance and telemetry data.
