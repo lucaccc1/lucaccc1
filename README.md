@@ -17,4 +17,9 @@ Headless tool designed to automatically assign descriptive names to functions in
 </details>
 
 ### Currently Working On
-- **M-L-GP**: A Machine Learning project focused on predicting MotoGP race outcomes using historical performance and telemetry data.
+
+<details>
+<summary><b>M-L-GP</b> · Python / Machine Learning <i>(WIP)</i></summary>
+
+A Machine Learning project focused on predicting MotoGP race outcomes using historical performance and telemetry data.
+</details>
